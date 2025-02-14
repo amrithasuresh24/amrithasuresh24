@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amrithasuresh24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="amrithasuresh24" /> </p>
 
-- 🌱 I’m currently learning **Coursera Google Data Analytics Certification** 
+- 🌱 I’m currently learning Coursera Google Data Analytics Certification 
 
-- 👯 I’m looking to collaborate on **cutting-edge data science projects, recommendation systems, and predictive analytics—especially those involving e-commerce, space technology, AI-driven insights, or innovative applications of machine learning.💡 Always up for brainstorming new ideas, tackling complex challenges, or diving into interdisciplinary projects that merge tech, creativity, and data!**  
+- 👯 I’m looking to collaborate on cutting-edge data science projects, recommendation systems, and predictive analytics—especially those involving e-commerce, space technology, AI-driven insights, or innovative applications of machine learning.💡 Always up for brainstorming new ideas, tackling complex challenges, or diving into interdisciplinary projects that merge tech, creativity, and data!  
 
 - 👨‍💻 Most of my projects are private but there's a few on [my github profile](https://github.com/amrithasuresh24)
 
@@ -18,5 +18,5 @@
 
 - 📄 Know about my experiences by checking out my [portfolio](https://amrithasureshoffic.wixsite.com/amrithasuresh)!
 
-- ⚡ Fun fact **🎉 I am a data scientist who loves dancing just as much as I love coding—so if I am not optimizing machine learning models, I’m probably busting a move! 💃✨ I am also multilingual—I speak 4 languages fluently and can interpret 8 languages! 🌍🗣️**
+- ⚡ Fun fact 🎉 I am a data scientist who loves dancing just as much as I love coding—so if I am not optimizing machine learning models, I’m probably busting a move! 💃✨ I am also multilingual—I speak 4 languages fluently and can interpret 8 languages! 🌍🗣️
 
