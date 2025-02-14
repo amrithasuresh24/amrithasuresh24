@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **cutting-edge data science projects, recommendation systems, and predictive analytics—especially those involving e-commerce, space technology, AI-driven insights, or innovative applications of machine learning.💡 Always up for brainstorming new ideas, tackling complex challenges, or diving into interdisciplinary projects that merge tech, creativity, and data!**  
 
-- 🤝 I’m looking for help with **recruiting and learning how to build a cool ray tracer in Rust**
-
 - 👨‍💻 Most of my projects are private but there's a few on [my github profile](https://github.com/amrithasuresh24)
 
 - 💻 I'm currently looking for a **full-time Data Scientist role!**
