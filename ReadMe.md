@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amritha Suresh</h1>
-<h3 align="center">🚀 I am a data-driven problem solver and passionate data scientist with a strong foundation in analytics, machine learning, and predictive modeling. I thrive on uncovering insights from data, optimizing systems, and crafting AI-driven solutions. With a keen interest in e-commerce analytics, space tech, and AI innovations, I love exploring how data can drive impactful decisions across industries. When I am not immersed in data, you will find me stargazing, dancing, or hiking my way through new adventures! 🌌💃🌿 :india: :us:</h3>
+<h3 align="center">🚀 I am a data-driven problem solver and passionate data scientist with a strong foundation in analytics, machine learning, and predictive modeling. I thrive on uncovering insights from data, optimizing systems, and crafting AI-driven solutions. With a keen interest in e-commerce analytics, space tech, and AI innovations, I love exploring how data can drive impactful decisions across industries.</h3> 
+<h3 align="center"> When I am not immersed in data, you will find me stargazing, dancing, or hiking my way through new adventures! 🌌💃🌿 :india: :us:</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amrithasuresh24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="amrithasuresh24" /> </p>
 
