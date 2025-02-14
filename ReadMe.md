@@ -11,7 +11,7 @@
 
 - 💻 I'm currently looking for a **full-time data scientist role!**
 
-- 💬 Love to chat about data science, AI, e-commerce analytics, space exploration, stargazing, hiking adventures, or anything tech-related—I'm always up for a good conversation! 🚀✨🌿!
+- 💬 Love to chat about data science, AI, e-commerce analytics, space exploration, stargazing, hiking adventures, or anything tech-related—I'm always up for a good conversation! 🚀✨🌿
 
 - 📫 How to reach me **amrithasureshofficial@gmail.com**
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/amrithasuresh/)!
