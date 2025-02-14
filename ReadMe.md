@@ -16,9 +16,9 @@
 - 💬 Love to chat about data science, AI, e-commerce analytics, space exploration, stargazing, hiking adventures, or anything tech-related—I'm always up for a good conversation! 🚀✨🌿
 
 - 📫 How to reach me **amrithasureshofficial@gmail.com**
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/amrithasuresh/)!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/amrithasuresh/)
 
-- 📄 Know about my experiences by checking out my [portfolio](https://amrithasureshoffic.wixsite.com/amrithasuresh)!
+- 📄 Learn about my experiences by checking out my [portfolio](https://amrithasureshoffic.wixsite.com/amrithasuresh)!
 
 - ⚡ Fun fact 🎉 I am a data scientist who loves dancing just as much as I love coding—so if I am not optimizing machine learning models, I’m probably busting a move! 💃✨ I am also multilingual—I speak 4 languages fluently and can interpret 8 languages! 🌍🗣️
 
