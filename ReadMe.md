@@ -20,5 +20,5 @@
 
 - 📄 Learn about my experiences by checking out my [portfolio](https://amrithasureshoffic.wixsite.com/amrithasuresh)!
 
-- ⚡ Fun fact 🎉 I am a data scientist who loves dancing just as much as I love coding—so if I am not optimizing machine learning models, I’m probably busting a move! 💃✨ I am also multilingual—I speak 4 languages fluently and can interpret 8 languages! 🌍🗣️
+- ⚡ Fun fact: I am a data scientist who loves dancing just as much as I love coding—so if I am not optimizing machine learning models, I’m probably busting a move! 💃✨ I am also multilingual—I speak 4 languages fluently and can interpret 8 languages! 🌍🗣️
 
